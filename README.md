@@ -1,2 +1,0 @@
-# CetaCoinLocal
-Django-Rest-Authenticate
